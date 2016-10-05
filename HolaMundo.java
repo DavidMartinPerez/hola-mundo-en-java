@@ -1,5 +1,6 @@
 /**
-* by David Martin
+* Hola mundo escrito en Java
+* @author David Martin Perez
  */
 
 public class HolaMundo {
